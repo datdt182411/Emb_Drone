@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP1
+Change Component Designator: OldDesignator=Nguon NewDesignator=Nguon1
+Added Component: Designator=Md1(NODEMCU_ESP8266_CH340)
+Change Net Name : Old Net Name=Net*_2 New Net Name=Net*1_2
+Added Member To Class: ClassName=Sheet2 Member=Component Md1 Node MCU 8266
+Added Room: Name=Sheet2

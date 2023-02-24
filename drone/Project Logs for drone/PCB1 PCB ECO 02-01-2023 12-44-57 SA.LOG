@@ -1,0 +1,110 @@
+Added Component: Designator=*(Mini-360)
+Added Component: Designator=J1(JP3)
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=J2(JP3)
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=J3(JP3)
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=J4(JP3)
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED3mm)
+Added Component: Designator=LoLin-1(LoLin NodeMcu V3)
+Added Component: Designator=MU1(MPU6050)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613004143121"; VariantName = "[No Variations]"
+Added Component: Designator=Nguon(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW2)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=*-4
+Added Pin To Net: NetName=+5 Pin=J1-2
+Added Pin To Net: NetName=+5 Pin=J2-2
+Added Pin To Net: NetName=+5 Pin=J3-2
+Added Pin To Net: NetName=+5 Pin=J4-2
+Added Pin To Net: NetName=+5 Pin=LoLin-1-VIN
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=Nguon-4
+Added Pin To Net: NetName=+12 Pin=SW1-1
+Added Net: Name=+12
+Added Pin To Net: NetName=esc1 Pin=J1-3
+Added Pin To Net: NetName=esc1 Pin=LoLin-1-D4
+Added Net: Name=esc1
+Added Pin To Net: NetName=esc2 Pin=J2-3
+Added Pin To Net: NetName=esc2 Pin=LoLin-1-D5
+Added Net: Name=esc2
+Added Pin To Net: NetName=esc3 Pin=J3-3
+Added Pin To Net: NetName=esc3 Pin=LoLin-1-D6
+Added Net: Name=esc3
+Added Pin To Net: NetName=esc4 Pin=J4-3
+Added Pin To Net: NetName=esc4 Pin=LoLin-1-D7
+Added Net: Name=esc4
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=MU1-2
+Added Pin To Net: NetName=GND Pin=MU1-2
+Added Pin To Net: NetName=GND Pin=MU1-2
+Added Pin To Net: NetName=GND Pin=Nguon-1
+Added Net: Name=GND
+Added Pin To Net: NetName=led Pin=LoLin-1-D3
+Added Net: Name=led
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=SW1-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP1_1 Pin=JP3-1
+Added Net: Name=NetJP1_1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP1_2 Pin=JP3-2
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetJP1_3 Pin=JP1-3
+Added Pin To Net: NetName=NetJP1_3 Pin=JP2-3
+Added Pin To Net: NetName=NetJP1_3 Pin=JP3-3
+Added Net: Name=NetJP1_3
+Added Pin To Net: NetName=NetJP1_4 Pin=JP1-4
+Added Pin To Net: NetName=NetJP1_4 Pin=JP2-4
+Added Pin To Net: NetName=NetJP1_4 Pin=JP3-4
+Added Net: Name=NetJP1_4
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLoLin-1_A0 Pin=LoLin-1-A0
+Added Net: Name=NetLoLin-1_A0
+Added Pin To Net: NetName=scl Pin=LoLin-1-D1
+Added Pin To Net: NetName=scl Pin=MU1-3
+Added Net: Name=scl
+Added Pin To Net: NetName=sda Pin=LoLin-1-D2
+Added Pin To Net: NetName=sda Pin=MU1-4
+Added Net: Name=sda
+Added Pin To Net: NetName=VCC Pin=LoLin-1-3V3
+Added Pin To Net: NetName=VCC Pin=LoLin-1-3V3
+Added Pin To Net: NetName=VCC Pin=LoLin-1-3V3
+Added Pin To Net: NetName=VCC Pin=MU1-1
+Added Net: Name=VCC
+Added Class: Name=Sheet2
+Added Room: Name=Sheet2

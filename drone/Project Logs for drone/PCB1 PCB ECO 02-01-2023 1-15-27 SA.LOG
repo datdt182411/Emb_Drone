@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=VCC Pin=Md1-3V3
+Added Pin To Net: NetName=VCC Pin=Md1-3V3
+Added Pin To Net: NetName=VCC Pin=Md1-3V3
+Added Pin To Net: NetName=scl Pin=Md1-D1
+Added Pin To Net: NetName=sda Pin=Md1-D2
+Added Pin To Net: NetName=led Pin=Md1-D3
+Added Pin To Net: NetName=esc1 Pin=Md1-D4
+Added Pin To Net: NetName=esc2 Pin=Md1-D5
+Added Pin To Net: NetName=esc3 Pin=Md1-D6
+Added Pin To Net: NetName=esc4 Pin=Md1-D7
+Added Pin To Net: NetName=GND Pin=Md1-GND
+Added Pin To Net: NetName=GND Pin=Md1-GND
+Added Pin To Net: NetName=GND Pin=Md1-GND
+Added Pin To Net: NetName=GND Pin=Md1-GND
+Added Pin To Net: NetName=GND Pin=Md1-GND
+Added Pin To Net: NetName=+5 Pin=Md1-VIN
+Added Pin To Net: NetName=NetMd1_A0 Pin=Md1-A0
+Added Pin To Net: NetName=NetMd1_A0 Pin=R2-1
+Added Pin To Net: NetName=NetMd1_A0 Pin=R3-2
+Added Net: Name=NetMd1_A0
+Added Member To Class: ClassName=Sheet2 Member=Component JP1 JP4

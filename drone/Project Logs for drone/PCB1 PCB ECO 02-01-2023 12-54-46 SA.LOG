@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=VCC Pin=LoLin-1-3V3
+Removed Pin From Net: NetName=VCC Pin=LoLin-1-3V3
+Removed Pin From Net: NetName=VCC Pin=LoLin-1-3V3
+Removed Pin From Net: NetName=scl Pin=LoLin-1-D1
+Removed Pin From Net: NetName=sda Pin=LoLin-1-D2
+Removed Pin From Net: NetName=led Pin=LoLin-1-D3
+Removed Pin From Net: NetName=esc1 Pin=LoLin-1-D4
+Removed Pin From Net: NetName=esc2 Pin=LoLin-1-D5
+Removed Pin From Net: NetName=esc3 Pin=LoLin-1-D6
+Removed Pin From Net: NetName=esc4 Pin=LoLin-1-D7
+Removed Pin From Net: NetName=GND Pin=LoLin-1-GND
+Removed Pin From Net: NetName=GND Pin=LoLin-1-GND
+Removed Pin From Net: NetName=GND Pin=LoLin-1-GND
+Removed Pin From Net: NetName=GND Pin=LoLin-1-GND
+Removed Pin From Net: NetName=GND Pin=LoLin-1-GND
+Removed Pin From Net: NetName=+5 Pin=LoLin-1-VIN
+Removed Member From Class: ClassName=Sheet2 Member=LoLin-1
+Added Component: Designator=U1(MODULE_ZC563900)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ZC563900"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=VCC Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=+5 Pin=U1-15
+Added Pin To Net: NetName=VCC Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Pin To Net: NetName=esc4 Pin=U1-21
+Added Pin To Net: NetName=esc3 Pin=U1-22
+Added Pin To Net: NetName=esc2 Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-24
+Added Pin To Net: NetName=VCC Pin=U1-25
+Added Pin To Net: NetName=esc1 Pin=U1-26
+Added Pin To Net: NetName=led Pin=U1-27
+Added Pin To Net: NetName=sda Pin=U1-28
+Added Pin To Net: NetName=scl Pin=U1-29
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-1
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=Sheet2 Member=Component U1 ZC563900
+Added Room: Name=Sheet2
